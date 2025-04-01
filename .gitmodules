@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 [submodule "40270"]
 	path = 40270
 	url = https://github.com/AlanFabela/40270.git
+=======
+[submodule "fei"]
+	path = fei
+	url = https://github.com/AlanFabela/fei.git
+>>>>>>> f3cf2c8506c96ebed57b1ac35905cba2a88a7ca7
